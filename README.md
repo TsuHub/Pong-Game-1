@@ -3,6 +3,7 @@
 ![Pong1](https://github.com/TsuHub/Pong-Game-1/blob/master/Pong1.jpg?raw=true)
 
 <p align="left">
+
 	1 - no terminal, dar o comando
 
 	cd <diretório src>
