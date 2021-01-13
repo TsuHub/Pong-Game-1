@@ -1,4 +1,4 @@
-# Pong 1
+# Pong 1.0
 
 ![Pong1](https://github.com/TsuHub/Pong-Game-1/blob/master/Pong1.jpg?raw=true)
 
