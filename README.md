@@ -1,4 +1,6 @@
-![alt text](https://github.com/TsuHub/Pong-Game-1/Pong1.jpg?raw=true)
+# Pong 1
+
+![Pong1](https://github.com/TsuHub/Pong-Game-1/Pong1.jpg?raw=true)
 
 <p align="left">
 	1 - no terminal, dar o comando
